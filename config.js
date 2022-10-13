@@ -36,7 +36,7 @@ global.APIKeys = { // APIKey Here
 }
 
 global.linkyt = 'https://chat.whatsapp.com/D71CKTjDBgkBYmaNZuUmcG'
-global.WM = 'IBNU-MD 𝑫𝒆𝒗𝒊𝒄𝒆 𝑩𝒚 IBNU OFFICIAL 🅥⁩ 
+global.WM = 'IBNU-MD 𝑫𝒆𝒗𝒊𝒄𝒆 𝑩𝒚 IBNU OFFICIAL 🅥⁩ '
 global.linkgc = 'https://chat.whatsapp.com/D71CKTjDBgkBYmaNZuUmcG'
 global.linkig = 'https://www.instagram.com/ibnu_ramadhani.1'
 global.deslink = ''
